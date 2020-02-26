@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f92f84-0c1f-48e9-86be-fdeade8a7b41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="148" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QmmKOKe38rF9GtnxEHMRxuayyn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CompetitionFloydWarshall">
+    <configuration name="CompetitionDijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompetitionDijkstra" />
+      <module name="Shortest Path" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionFloydWarshall" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompetitionFloydWarshall" />
+      <module name="Shortest Path" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shortest Path" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompetitionTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionTests.testGraphStuff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shortest Path" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompetitionTests" />
+      <option name="METHOD_NAME" value="testGraphStuff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionTests.testTimeForCompDij" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shortest Path" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompetitionTests" />
+      <option name="METHOD_NAME" value="testTimeForCompDij" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompetitionTests.testTimeForCompFW" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shortest Path" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompetitionTests" />
+      <option name="METHOD_NAME" value="testTimeForCompFW" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CompetitionFloydWarshall" />
+      <item itemvalue="Application.CompetitionDijkstra" />
+      <item itemvalue="JUnit.CompetitionTests" />
+      <item itemvalue="JUnit.CompetitionTests.testTimeForCompDij" />
+      <item itemvalue="JUnit.CompetitionTests.testTimeForCompFW" />
+      <item itemvalue="JUnit.CompetitionTests.testGraphStuff" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompetitionTests" />
+        <item itemvalue="JUnit.CompetitionTests.testTimeForCompDij" />
+        <item itemvalue="JUnit.CompetitionTests.testTimeForCompFW" />
+        <item itemvalue="Application.CompetitionDijkstra" />
+        <item itemvalue="JUnit.CompetitionTests.testGraphStuff" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f92f84-0c1f-48e9-86be-fdeade8a7b41" name="Default Changelist" comment="" />
+      <created>1554224639050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554224639050</updated>
+      <workItem from="1554224640478" duration="654000" />
+      <workItem from="1554225640427" duration="1684000" />
+      <workItem from="1554289188714" duration="25992000" />
+      <workItem from="1554391357836" duration="3584000" />
+      <workItem from="1554449775610" duration="1858000" />
+      <workItem from="1554461871431" duration="1251000" />
+      <workItem from="1568384090221" duration="31000" />
+      <workItem from="1568384155173" duration="598000" />
+      <workItem from="1570185084713" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CompetitionTests_testTimeForCompFW - 2019.04.04 at 17h 16m 00s.xml">
+      <configuration name="CompetitionTests.testTimeForCompFW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompFW - 2019.04.04 at 17h 16m 15s.xml">
+      <configuration name="CompetitionTests.testTimeForCompFW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompFW - 2019.04.04 at 17h 16m 38s.xml">
+      <configuration name="CompetitionTests.testTimeForCompFW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompDij - 2019.04.04 at 17h 17m 08s.xml">
+      <configuration name="CompetitionTests.testTimeForCompDij" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompDij - 2019.04.04 at 17h 17m 17s.xml">
+      <configuration name="CompetitionTests.testTimeForCompDij" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests - 2019.04.04 at 17h 17m 33s.xml">
+      <configuration name="CompetitionTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompFW - 2019.04.04 at 17h 20m 43s.xml">
+      <configuration name="CompetitionTests.testTimeForCompFW" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompDij - 2019.04.04 at 17h 20m 56s.xml">
+      <configuration name="CompetitionTests.testTimeForCompDij" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests_testTimeForCompDij - 2019.04.04 at 17h 21m 02s.xml">
+      <configuration name="CompetitionTests.testTimeForCompDij" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompetitionTests - 2019.04.04 at 17h 21m 10s.xml">
+      <configuration name="CompetitionTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="125" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1570185222304" />
+    <state x="399" y="125" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.768" timestamp="1570185222305" />
+    <state x="466" y="95" width="424" height="603" key="FileChooserDialogImpl" timestamp="1570185304348">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="95" width="424" height="603" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1570185304348" />
+    <state x="268" y="27" width="819" height="741" key="NewModule_or_Project.wizard" timestamp="1570185256910">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="268" y="27" width="819" height="741" key="NewModule_or_Project.wizard/0.27.1366.741@0.27.1366.741" timestamp="1570185256910" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1570185307979">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1570185307979" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Shortest_Path$CompetitionTests_testTimeForCompDij.ic" NAME="CompetitionTests.testTimeForCompDij Coverage Results" MODIFIED="1554394860838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Shortest_Path$CompetitionDijkstra.ic" NAME="CompetitionDijkstra Coverage Results" MODIFIED="1554394356583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Shortest_Path$CompetitionTests_testGraphStuff.ic" NAME="CompetitionTests.testGraphStuff Coverage Results" MODIFIED="1554317501354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Shortest_Path$CompetitionTests_testTimeForCompFW.ic" NAME="CompetitionTests.testTimeForCompFW Coverage Results" MODIFIED="1554316809828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Shortest_Path$CompetitionTests.ic" NAME="CompetitionTests Coverage Results" MODIFIED="1554394869219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Shortest Path</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
